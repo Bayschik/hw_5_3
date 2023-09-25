@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin_project</string>
+    <string name="text">Введите текст</string>
+</resources>
